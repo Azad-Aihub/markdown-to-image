@@ -6,7 +6,7 @@ This React component renders Markdown as visually appealing social media images.
 
 - [English](./README.md) | [中文](./README_CN.md)
 - [DEMO & Web Editor](https://readpo.com/en/poster)
-- [Deploy Editor with Vercel](https://vercel.com/new/clone?repository-url=https://github.com/gcui-art/markdown-to-poster&root-directory=example&project-name=markdown-to-poster&repository-name=markdown-to-poster)
+- [Deploy Editor with Vercel](https://vercel.com/new/clone?repository-url=https://github.com/Azad-Aihub/markdown-to-image&root-directory=example&project-name=markdown-to-poster&repository-name=markdown-to-poster)
 - [NPM:markdown-to-poster](https://www.npmjs.com/package/markdown-to-poster)
 
 ⭐ Click the Star and Watch buttons to stay updated on our latest developments.
